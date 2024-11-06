@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spaceroarx
+- 👋 Hi, I’m Rodrigo
 - 👀 I’m interested in Scripting with python, SQL databases, Dev Ops and Software Development.
 - 🌱 I’m currently learning Videogame dev and other cool things like scripts for blender and or After effects for video editing.
 - 💞️ I’m looking to collaborate on anything that is unique and interesting.
