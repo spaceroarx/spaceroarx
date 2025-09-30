@@ -5,6 +5,13 @@
 - 📫 How to reach me: Rodrigo.edco98@gmail.com
 - ⚡ Fun fact: I love coding :)
 
+## Highlight Projects
+
+- **Retail Analytics Portfolio Project** – An end-to-end data analyst case study
+  featuring a synthetic retail dataset, automated KPI reporting, and advanced
+  visualizations created with Matplotlib, Seaborn, and Plotly. Explore it in
+  [`projects/retail-analytics`](projects/retail-analytics/README.md).
+
 <!---
 spaceroarx/spaceroarx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
